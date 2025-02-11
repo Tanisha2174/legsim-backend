@@ -10,7 +10,7 @@ const offerings = [
     image: "/images/c.webp",
     title: "Legal and Business Consultancy Services",
     description: "Expert legal guidance to simplify business operations and ensure compliance.",
-    link: "practice-areas/Legal-and-Business-Consultancy-Services",
+    link: "/practice-areas/Legal-and-Business-Consultancy-Services",
   },
   {
     image: "/images/register.jpeg",
